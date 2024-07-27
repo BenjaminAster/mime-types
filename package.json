@@ -1,0 +1,17 @@
+{
+	"name": "@benjaminaster/mime-types",
+	"version": "0.0.1",
+	"description": "A simple modern & bullshit-free list mapping file extensions to mime types.",
+	"main": "./index.js",
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BenjaminAster/mime-types.git"
+	},
+	"author": "Benjamin Aster",
+	"license": "WTFPL",
+	"bugs": {
+		"url": "https://github.com/BenjaminAster/mime-types/issues"
+	},
+	"homepage": "https://github.com/BenjaminAster/mime-types#readme"
+}
